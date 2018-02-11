@@ -11,4 +11,5 @@ I have seen different portofolio scripts but all are complicated to understand i
 * Beccause it is the simplest script for portofolio, you have no local dataset or file writing of any value, you need to add manually your coins and to modify your quantities into the portofolio text file(s).
 
 Have fun with crypto!
-@muntisa
+
+muntisa
