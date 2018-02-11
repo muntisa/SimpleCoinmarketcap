@@ -88,5 +88,5 @@ if __name__ == "__main__":
     # CoinmarketcapPortofolio("YouNewPortofolio.txt")
     
     # wait to press ENTER to exit
-    input("\nPress ENTER to exit ...")
+    raw_input("\nPress Enter to end ...")
 
