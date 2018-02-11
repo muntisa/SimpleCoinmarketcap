@@ -9,6 +9,7 @@ I have seen different portofolio scripts but all are complicated to understand i
 * If you run the script, the code will connect to the Coinmarketcap APIs and it will get information about your coins.
 * If you have programming skills, you can add more information to the output by using the disabled variables.
 * Beccause it is the simplest script for portofolio, you have no local dataset or file writing of any value, you need to add manually your coins and to modify your quantities into the portofolio text file(s).
+* The total value in USD is calculated for each portofolio but not the all the portofolios.
 
 Have fun with crypto!
 
