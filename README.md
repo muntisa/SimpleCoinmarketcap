@@ -1,5 +1,5 @@
 # SimpleCoinmarketcap
-Simple script to print information about your portofolio file using Cionmarketcap APIs
+Simple Coinmarketcap API to your crypto portofolios
 
 I have seen different portofolio scripts but all are complicated to understand in 5 minutes. Therefore, I propose the simplest portofolio script in python 2.7: read a portofolio file, connect to Coinmarketcap APIs, print the coin/token information from your portofolio(s).
 
@@ -10,6 +10,15 @@ I have seen different portofolio scripts but all are complicated to understand i
 * If you have programming skills, you can add more information to the output by using the disabled variables.
 * Beccause it is the simplest script for portofolio, you have no local dataset or file writing of any value, you need to add manually your coins and to modify your quantities into the portofolio text file(s).
 * The total value in USD is calculated for each portofolio but not the all the portofolios.
+
+## Example
+Let's use a portofolio as input for SimpleCoinmarketcap script:
+
+![Input](images/portofolio.png)
+
+By running SimpleCoinmarketcap.py the result will print the information for your coins/tokens:
+
+![Output](images/result.png)
 
 Have fun with crypto!
 
