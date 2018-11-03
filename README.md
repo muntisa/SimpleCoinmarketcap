@@ -20,6 +20,8 @@ By running SimpleCoinmarketcap.py the result will print the information for your
 
 ![Output](images/result.png)
 
+Python 3 version of the script has extra outputs: it creates a file for each portofolio (ex: *_db_myPortofolio1.txt*) and a file with general total (*_db_TOTAL.txt*). These files could be use later to see the evolution of your portofolios (ex: generating plots in time).
+
 Have fun with crypto!
 
-muntisa
+@muntisa
