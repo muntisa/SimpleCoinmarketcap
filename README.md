@@ -1,7 +1,7 @@
 # SimpleCoinmarketcap
 Simple Coinmarketcap API to your crypto portofolios
 
-I have seen different portofolio scripts but all are complicated to understand in 5 minutes. Therefore, I propose the simplest portofolio script in python 2.7: read a portofolio file, connect to Coinmarketcap APIs, print the coin/token information from your portofolio(s).
+I have seen different portofolio scripts but all are complicated to understand in 5 minutes. Therefore, I propose the simplest portofolio script in python 2.7 and 3.7: read a portofolio file, connect to Coinmarketcap APIs, print the coin/token information from your portofolio(s).
 
 ## How to use it
 * Place your coin names in Coinmarketcap and the quantity into a portofolio text file (TAB-separated); you can have several portofolios!
